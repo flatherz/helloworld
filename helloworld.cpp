@@ -1,3 +1,4 @@
+// Author: Zach Flathers
 #include <iostream>
 
 int main () {
